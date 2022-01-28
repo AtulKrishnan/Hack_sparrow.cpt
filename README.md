@@ -8,3 +8,5 @@ Our idea is to make it like a mode. Like for example there is a dark mode. Like 
 
 The Adobe XD code is there in the two Google Pixel files that have been committed to this repository along with the various pictures we have used.
 The Senior Modeeee file contains the prototype that we have developed and can be opened on Adobe XD.
+
+We hope you guys like our idea!
